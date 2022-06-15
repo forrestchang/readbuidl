@@ -1,4 +1,5 @@
 node_modules
 resources
+public
 .netlify
 .hugo_build.lock
