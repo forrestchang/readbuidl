@@ -57,7 +57,7 @@ smallLimit = "300"
 footer = "Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 ReadBUIDL"
+copyRight = "Copyright (c) 2020-2021 Read BUIDL by Jiayuan"
 
 # Alert
 alert = false
