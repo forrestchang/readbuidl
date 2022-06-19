@@ -58,9 +58,6 @@ footer = "Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a
 
 # Feed
 copyRight = "Copyright (c) 2020-2021 Read BUIDL by Jiayuan"
-[author]
-  name = "Jiayuan"
-  email = "forrestchang7@gmail.com"
 
 # Alert
 alert = false
